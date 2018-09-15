@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationViewKotlinDemo</string>
+
+    <string name="inbox">Inbox</string>
+    <string name="sent">Sent</string>
+    <string name="draft">Draft</string>
+    <string name="trash">Trash</string>
+    <string name="settings">Settings</string>
+    <string name="drawerOpen">Open</string>
+    <string name="drawerClose">Close</string>
+
+</resources>
